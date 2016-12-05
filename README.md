@@ -1,7 +1,5 @@
 # Summative - One Tweet
 
-## Initial ideas
-
 The project that I’ve decided to present is One Tweet.
 
 I wanted to present this one as I feel it’s the one that I have learnt a lot from and have developed the designs from my initial ideas.
