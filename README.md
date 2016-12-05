@@ -56,3 +56,4 @@ So I looked into the psychology of colour, the meaning behind my designs, choosi
 
 ![4](https://cloud.githubusercontent.com/assets/22593770/19626990/4998fdb4-9935-11e6-92a8-5ba5b6ec7277.jpg)
 
+![zoom1](https://cloud.githubusercontent.com/assets/22593770/20686025/d0c9ce40-b5ae-11e6-8389-e3ad2325241d.jpg)
